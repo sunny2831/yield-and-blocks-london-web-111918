@@ -5,3 +5,5 @@ yield(i, j)
 i = “magick”
 return nil
 end
+
+aliens { |x, y| puts x }
